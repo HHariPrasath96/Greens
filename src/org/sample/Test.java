@@ -14,14 +14,15 @@ public class Test {
         System.out.println("selenium");
 	}
 	
+	private void method4() {
+        System.out.println("vector");
 	
 	
 	
 	
 	
 	
-	
-	
+	}
 	
 
 }
