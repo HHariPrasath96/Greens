@@ -15,7 +15,13 @@ public class Test {
 	}
 	
 	private void method4() {
+
         System.out.println("vector");
+
+        System.out.println("boss");
+	}
+        private void method5() {
+            System.out.println("testing");
 	
 	
 	
@@ -24,5 +30,6 @@ public class Test {
 	
 	}
 	
+	}
 
-}
+
